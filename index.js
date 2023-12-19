@@ -3,4 +3,10 @@ const person = {
     lastName : 'shah',
     age : 32,
 }
-console.log(person.firstName);
+console.log(person.age);
+
+let numberList = [1,2,3,4,5];
+
+for(i = 0 ; i <= 5 ; i++){
+    console.log(i);
+}
