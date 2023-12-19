@@ -5,7 +5,7 @@ const person = {
 }
 console.log(person.age);
 
-let numberList = [1,2,3,4,5,6,7,8];
+let numberList = [1,2,3,4,5,6,7,8,100];
 
 for(i = 0 ; i <= 5 ; i++){
     console.log(i);
